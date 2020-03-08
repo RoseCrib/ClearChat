@@ -71,7 +71,7 @@ class Main extends PluginBase implements Listener{
 			$this->getServer()->broadcastMessage("§6Chatul se șterge.");
 			$this->getServer()->broadcastMessage("§6Chatul se șterge.");
 			$this->getServer()->broadcastMessage("§6Chatul se șterge.");
-			$this->getServer()->broadcastMessage("§6Clearing Chat.");
+			$this->getServer()->broadcastMessage("§6Chatul se șterge.");
 			$this->getServer()->broadcastMessage("§6Clearing Chat.");
 			$this->getServer()->broadcastMessage("§6Clearing Chat.");
 			$this->getServer()->broadcastMessage("§6Clearing Chat.");
