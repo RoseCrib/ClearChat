@@ -38,9 +38,9 @@ class Main extends PluginBase implements Listener{
 			$this->getServer()->broadcastMessage("§cPlease wait...");
 			$this->getServer()->broadcastMessage("§cChat being removed by §b$senderName ...");
 			$this->getServer()->broadcastMessage("§cThis should work pretty quickly now.");
-			$this->getServer()->broadcastMessage("§dWelcome to VoidfactionsPE! :) We're just fixing the chat.");
+			$this->getServer()->broadcastMessage("§dBun Venit pe MagicLounge! :) We're just fixing the chat.");
 			$this->getServer()->broadcastMessage("§dChat removed. Adding messages.");
-			$this->getServer()->broadcastMessage("§dClearChat plugin, updated by Zeao. ;)");
+			$this->getServer()->broadcastMessage("§dClearChat plugin, updated by Rose. ;)");
 			$this->getServer()->broadcastMessage("§dChatClear is a wonderful system. :D");
 			$this->getServer()->broadcastMessage("§eDid you know, Minecraft was created in 2009?");
 			$this->getServer()->broadcastMessage("§eDid you know, §6Void§bFactions§cPE §dwas created just 1 year ago in March?");
